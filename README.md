@@ -1,28 +1,27 @@
-# Hai, aku Raka 👋
+# Hi, I'm Raka 👋
 
-Aku Raka Syauqi Ferdian. Aku membangun **aplikasi web, aplikasi Android, dan alat bantu teknis**. Proyekku mencakup simulator machine learning, platform latihan keamanan siber, dan aplikasi yang menjalankan model langsung di ponsel.
+I'm Raka Syauqi Ferdian. I build **web apps, Android apps, and developer tools**. My projects include interactive machine learning simulations, browser-based cybersecurity challenges, and apps that run machine learning models directly on a phone.
 
-[![Terminal RAKA-OS menjalankan perintah projects dan menampilkan Neura, FlagForge, FoodCal AI, serta PKA Solver. Buka portofolio Raka.](assets/raka-os.svg)](https://portfolio.rakasyau.my.id)
+[![The RAKA-OS terminal runs the projects command and lists Neura, FlagForge, FoodCal AI, and PKA Solver. Open Raka's portfolio.](assets/raka-os.svg)](https://portfolio.rakasyau.my.id)
 
-**[Kunjungi portfolio ↗](https://portfolio.rakasyau.my.id)**
+**[Visit my portfolio ↗](https://portfolio.rakasyau.my.id)**
 
-### 👤 Tentang aku
+### 👤 About me
 
-- Untuk proyek web, aku memakai TypeScript, React, dan Next.js.
-- Di Android, aku mengeksplorasi Flutter dan inferensi model luring dengan TensorFlow Lite.
+- I build web apps with TypeScript, React, and Next.js.
+- On Android, I use Flutter and explore offline inference with TensorFlow Lite.
 
-### 🔧 Proyek pilihan
+### 🔧 Featured projects
 
-- **[Neura](https://github.com/rakasyau/Neura)** — Belajar machine learning lewat modul, kuis, dan simulator yang memperlihatkan cara kerja algoritma. *Next.js, TypeScript, MongoDB.*
-- **[FlagForge](https://github.com/rakasyau/FlagForge)** — Platform belajar keamanan siber dengan kurikulum dan tantangan Capture The Flag yang bisa dicoba di browser. *React, TypeScript, Express, MongoDB.*
-- **[FoodCal AI](https://github.com/rakasyau/foodcal-ai)** — Aplikasi Android untuk memperkirakan kalori dan nutrisi dari foto makanan secara luring. *Flutter, Dart, TensorFlow Lite.*
-- **[PKA Solver](https://github.com/rakasyau/pka-solver)** — Utilitas Python untuk meninjau struktur dan konfigurasi file latihan `.pka` Cisco Packet Tracer secara luring.
+- **[Neura](https://github.com/rakasyau/Neura)** — Learn machine learning through lessons, quizzes, and interactive simulations that show how algorithms work. *Next.js, TypeScript, MongoDB.*
+- **[FlagForge](https://github.com/rakasyau/FlagForge)** — Learn cybersecurity through guided lessons and Capture the Flag challenges you can solve in your browser. *React, TypeScript, Express, MongoDB.*
+- **[FoodCal AI](https://github.com/rakasyau/foodcal-ai)** — An Android app that estimates calories and nutrients from food photos, even when you're offline. *Flutter, Dart, TensorFlow Lite.*
+- **[PKA Solver](https://github.com/rakasyau/pka-solver)** — A Python tool for inspecting the structure and configuration of Cisco Packet Tracer `.pka` activity files offline.
 
-### 🛠️ Stack
+### 🛠️ Tech stack
 
-![TypeScript, React, Next.js, Express, MongoDB, Python, Flutter, Dart, TensorFlow, dan SQLite](https://skillicons.dev/icons?i=ts,react,nextjs,express,mongodb,py,flutter,dart,tensorflow,sqlite&perline=5)
+![TypeScript, React, Next.js, Express, MongoDB, Python, Flutter, Dart, TensorFlow, and SQLite](https://skillicons.dev/icons?i=ts,react,nextjs,express,mongodb,py,flutter,dart,tensorflow,sqlite&perline=5)
 
-### 📊 Aktivitas GitHub
+### 📊 GitHub activity
 
-![Statistik repositori publik, aktivitas, dan bahasa pemrograman di GitHub](assets/github-stats.svg)
-
+![GitHub statistics for my public repositories, contributions, and programming languages](assets/github-stats.svg)

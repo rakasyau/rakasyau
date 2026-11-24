@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="220" viewBox="0 0 680 220" role="img" aria-labelledby="title desc">
   <title id="title">RAKA-OS · Terminal</title>
-  <desc id="desc">Terminal Raka membuka direktori proyek dan menampilkan Neura, FlagForge, FoodCal AI, serta PKA Solver.</desc>
+  <desc id="desc">Raka's terminal opens the projects directory and lists Neura, FlagForge, FoodCal AI, and PKA Solver.</desc>
   <style>
     text { font-family: "IBM Plex Mono", Consolas, monospace; }
     .mask { opacity: 0; }

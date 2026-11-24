@@ -28,9 +28,9 @@ jobs:
         uses: cicirello/user-statistician@930471d1b15a16ae11f80d755c411aa943039f49 # v1.22.0
         with:
           image-file: assets/github-stats.svg
-          custom-title: Statistik GitHub Raka
+          custom-title: Raka's GitHub Stats
           colors: dark-dimmed
-          locale: id
+          locale: en
           hide-keys: general, private
           max-languages: 5
           commit-and-push: 'false'

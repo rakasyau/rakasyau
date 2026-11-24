@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="220" viewBox="0 0 680 220" role="img" aria-labelledby="title desc">
+  <title id="title">RAKA-OS · Terminal</title>
+  <desc id="desc">Terminal Raka membuka direktori proyek dan menampilkan Neura, FlagForge, FoodCal AI, serta PKA Solver.</desc>
+  <style>
+    text { font-family: "IBM Plex Mono", Consolas, monospace; }
+    .mask { opacity: 0; }
+    @media (prefers-reduced-motion: no-preference) {
+      .boot { transform-origin: 26px 50px; animation: mount .48s ease-out both; }
+      .prompt { animation: appear .16s .48s both; }
+      .mask { opacity: 1; transform-box: fill-box; transform-origin: right; animation: type .8s .74s steps(8,end) both; }
+      .row-a { animation: appear .18s 1.68s both; }
+      .row-b { animation: appear .18s 1.85s both; }
+      .ready { animation: appear .16s 2.06s both; }
+    }
+    @keyframes mount { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes type { from { transform: scaleX(1); } to { transform: scaleX(0); } }
+    @keyframes appear { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <rect width="680" height="220" rx="14" fill="#14171f"/>
+  <g fill="#ede6d8">
+    <path d="M26 17h20v16H26z" fill="none" stroke="#8c9bff" stroke-width="2"/>
+    <path d="m30 21 4 4-4 4m7 0h5" fill="none" stroke="#8c9bff" stroke-width="2"/>
+    <text x="58" y="32" font-size="19" font-weight="bold">RAKA-OS</text>
+    <text x="654" y="31" text-anchor="end" fill="#9aa1b5" font-size="16">nvme0 · raka/projects</text>
+  </g>
+  <path d="M26 50H654" stroke="#343845"/>
+  <path class="boot" d="M26 50H142" stroke="#8c9bff" stroke-width="3"/>
+  <g class="prompt" font-size="24">
+    <text x="26" y="89" fill="#8c9bff">raka@raka-os<tspan fill="#d9825b">:~</tspan>$</text>
+    <text x="266" y="89" fill="#ede6d8" textLength="120" lengthAdjust="spacingAndGlyphs">projects</text>
+    <rect class="mask" x="266" y="62" width="120" height="34" fill="#14171f"/>
+  </g>
+  <g font-size="22" fill="#ede6d8">
+    <g class="row-a">
+      <text x="44" y="129"><tspan fill="#e8c27a">./</tspan>Neura</text>
+      <text x="338" y="129"><tspan fill="#e8c27a">./</tspan>FlagForge</text>
+    </g>
+    <g class="row-b">
+      <text x="44" y="160"><tspan fill="#e8c27a">./</tspan>FoodCal AI</text>
+      <text x="338" y="160"><tspan fill="#e8c27a">./</tspan>PKA Solver</text>
+    </g>
+  </g>
+  <g class="ready">
+    <text x="26" y="199" font-size="22" fill="#8c9bff">$</text>
+    <rect x="51" y="183" width="11" height="18" fill="#8c9bff"/>
+  </g>
+</svg>
